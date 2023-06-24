@@ -1,0 +1,19 @@
+/* your styles go here */
+
+.contact-item-s {
+    align-items: center;
+}
+
+.contact-item-logo {
+    width: 1cm;
+}
+
+.contact-item-logo i {
+    width: max-content;
+    margin: auto;
+}
+
+#contact a {
+    color: black;
+}
+
