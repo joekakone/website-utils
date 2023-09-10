@@ -1,0 +1,31 @@
+/* your styles go here */
+
+#about .img-thumb img {
+    border: 8px solid #fff;
+    box-shadow: 0 0 30px rgba(0,0,0,.2);
+    max-width: 100%;
+    height: auto;
+}
+
+.contact-item-s {
+    align-items: center;
+}
+
+.contact-item-logo {
+    width: 1cm;
+}
+
+.contact-item-logo i {
+    width: max-content;
+    margin: auto;
+}
+
+#contact a {
+    color: black;
+}
+
+
+.form-row{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-right:-5px;margin-left:-5px}
+
+.form-group{display:-ms-flexbox;display:flex;-ms-flex:0 0 auto;flex:0 0 auto;-ms-flex-flow:row wrap;flex-flow:row wrap;-ms-flex-align:center;align-items:center;margin-bottom:0}
+
